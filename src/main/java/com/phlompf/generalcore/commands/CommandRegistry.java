@@ -16,8 +16,7 @@ public final class CommandRegistry {
 
     /**
      * Responds to the RegisterCommandsEvent fired by Forge. This event provides the command dispatcher
-     * used by the server to register Brigadier commands. All custom commands for this mod should be
-     * registered here.
+     * used by the server to register Brigadier commands. All custom commands are registered here.
      */
 
     @SubscribeEvent
