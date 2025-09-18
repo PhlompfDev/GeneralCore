@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="generalcore"
+version="1.4.2"
+displayName="GeneralsCore"
+authors="Phlompf"
+description='''A core utility mod that suppresses console log entries for gamemode and give commands.'''
